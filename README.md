@@ -21,6 +21,12 @@ The segmentation model will be developed using clustering techniques. The proces
 1. Feature Selection: Identifying relevant features for segmentation  
 2. Model Selection: Evaluating different clustering algorithms such as K-Means, Hierarchical Clustering, etc.
 
+## Dockerfile  
+The `segmentasyon_model.py` file located under the `.src/` directory is layered through the Dockerfile in the project.
+
+## GitHub Actions  
+In the `.github/workflows` directory of the project, automation scenarios for GitHub Actions are available.
+
 ## Setup
 Instructions for setting up the project environment.
 
